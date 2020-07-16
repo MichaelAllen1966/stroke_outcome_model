@@ -4,6 +4,9 @@
 
 Algorithm to calculate probability of a good outcome given thrombolysis or thrombectomy.
 
+[![DOI](https://zenodo.org/badge/280125439.svg)](https://zenodo.org/badge/latestdoi/280125439)
+
+
 ## Run on BinderHub:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichaelAllen1966/stroke_outcome_algorithm/master)
