@@ -1,6 +1,5 @@
 # stroke_outcome_algorithm
 
-[![DOI](https://zenodo.org/badge/279309062.svg)](https://zenodo.org/badge/latestdoi/279309062)
 
 Algorithm to calculate probability of a good outcome given thrombolysis or thrombectomy.
 
